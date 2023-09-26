@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(104, 102, 102);
+}
+
+.principal {
+    
+    justify-items:start;
+    background-color: rgb(104, 102, 102);
+    width: 90%;
+    max-width: 2000px;
+    margin: 30px 30px 30px 30px;
+}
+
+
+.principal h1{
+    
+    font: 50px "arial", sans-serif;
+    font-weight: 900;
+    color:rgb(255, 255, 255);
+    border-style: dashed;
+    margin: 30px 30px;
+    border-width: 3px;
+    text-align: center;
+    
+}
+.secundario {
+    background-color: rgb(104, 102, 102);
+    width: 90%;
+    max-width: 2000px;
+    margin: 30px 30px 30px 30px;
+}
+
+.secundario p{
+    font: 25px "arial", sans-serif;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+}
+
+
+.secundario ul li{
+    display:inline-flex;
+    font: 20px "arial", sans-serif;
+    font-weight: 600;
+    color:rgb(255, 255, 255);
+    margin: 10px 10px;
+}
+
+.terciaria .underthedome{
+    background-color: bisque;
+}
+
+.terciaria .pabloescobar{
+    background-color: rgb(115, 198, 201);
+}
+
+.terciaria .rapidoyfurioso{
+    background-color: rgb(190, 120, 255);
+}
+
+.terciaria .colinassangrientas{
+    background-color: rgb(252, 84, 84);
+}
+
+.terciaria .soncomoniños{
+    background-color: rgb(255, 227, 68);
+}
+
+.terciaria .underthedome h1, .terciaria .pabloescobar h1, .terciaria .rapidoyfurioso h1,
+ .terciaria .colinassangrientas h1, .terciaria .soncomoniños h1{
+    font: 60px "arial", sans-serif;
+    font-weight: 600;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    margin: 10px 10px;
+    border-style: dashed;
+}
+
+.terciaria .underthedome p, .terciaria .pabloescobar p, .terciaria .rapidoyfurioso p,
+.terciaria .colinassangrientas p, .terciaria .soncomoniños p {
+    font: 30px "arial", sans-serif;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    font-size:large;
+    text-align: center;
+}
+
+.terciaria .underthedome > ul > li, .terciaria .pabloescobar > ul > li, .terciaria .rapidoyfurioso > ul > li,
+.terciaria .colinassangrientas > ul > li, .terciaria .soncomoniños > ul > li {
+    display: inline-flex;
+    margin: 20px 20px;
+}
