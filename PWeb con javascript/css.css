@@ -1,0 +1,85 @@
+.encabezado{
+    font: 50px "arial", sans-serif;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.introduccion {
+    background-color: rgb(253, 163, 36);
+}
+
+.introduccion h2 {
+    font: 40px "arial", sans-serif;
+    text-align: center;
+    font-weight: 700;
+}
+
+.encabezado li a, .encabezado li {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.introduccion p {
+    font: 20px "arial", sans-serif;
+    text-align: center;
+}
+
+.img {
+    margin-left: 560px;
+}
+
+.contenido {
+    background-color:rgb(253, 163, 36);
+}
+
+.contenido h2 {
+    font: 40px "arial", sans-serif;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+
+.contenido ul {
+    font: 20px "arial", sans-serif;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+
+body img {
+    margin-left: 50px;
+}
+
+.piedepagina {
+    background-color:rgb(253, 163, 36);
+}
+
+.piedepagina h2 {
+    font: 40px "arial", sans-serif;
+    text-align: center;
+    font-weight: 700;
+}
+
+.piedepagina p {
+    font: 20px "arial", sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.biografia h1 {
+    font: 60px "arial", sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.biografia p {
+    font: 20px "arial", sans-serif;
+    text-align: center;
+    color: white;
+}
+
